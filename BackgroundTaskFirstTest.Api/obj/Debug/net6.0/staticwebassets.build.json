@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SnXGd+CVhzpvBu4+6tFpW3sb8YLkK+83wRoo33aiF0c=",
+  "Source": "BackgroundTaskFirstTest.Api",
+  "BasePath": "_content/BackgroundTaskFirstTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
